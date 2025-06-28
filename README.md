@@ -4,7 +4,7 @@ This notebook is the second task of my internship, focused on cleaning product-r
 
 ---
 
-## 📚 Libraries Used
+##  📚 Libraries Used
 
 - **pandas** – for data manipulation  
 - **numpy** – for numerical operations  
