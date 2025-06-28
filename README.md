@@ -52,4 +52,15 @@ This notebook is the second task of my internship, focused on cleaning product-r
 ---
 
 ## 📂 Files
+├── Task-2/
+│ ├── Task-2.ipynb # Jupyter Notebook with step-by-step cleaning
+│ └── README.md # This file
+
+---
+
+## 🏁 Status
+
+✔️ Task 2 completed successfully  
+⚙️ Cleaned product dataset ready for further analysis
+
 
