@@ -4,7 +4,7 @@ This notebook is the second task of my internship, focused on cleaning product-r
 
 ---
 
-##📚 Libraries Used
+## 📚 Libraries Used
 
 - **pandas** – for data manipulation  
 - **numpy** – for numerical operations  
@@ -13,7 +13,7 @@ This notebook is the second task of my internship, focused on cleaning product-r
 
 ---
 
-###🧼 Cleaning Steps Performed
+## 🧼 Cleaning Steps Performed
 
 📥 Data Loading
 - Imported required libraries  
@@ -22,23 +22,23 @@ This notebook is the second task of my internship, focused on cleaning product-r
 
 ###🧾 Column-wise Cleaning
 
-###🛍️ `Product` Column
+## 🛍️ `Product` Column
 - Used `describe()` to understand basic stats about product entries  
 
-###💰 `Price` Column
+## 💰 `Price` Column
 - Converted values to numeric using `pd.to_numeric()`  
 - Calculated the mean of the column  
 - Filled missing values in the `Price` column using the calculated mean  
 
-###📦 `Quantity` Column
+## 📦 `Quantity` Column
 - Found the mode using `mode()[0]`  
 - Filled missing values with the most frequent quantity  
 - Printed the updated column to verify  
 
-###🌆 `City` Column
+## 🌆 `City` Column
 - Used `describe()` to explore the distribution and completeness of city data  
 
-###🗓️ `Purchase Date` Column
+🗓️ `Purchase Date` Column
 - Reviewed for format issues – no cleaning was required  
 
 ---
